@@ -49,7 +49,7 @@
         },
         {
             "name": "Helium_1.2.3",
-            "bundleIdentifier": "com.tencent.xin_3",
+            "bundleIdentifier": "com.helium",
             "version": "1.2.3",
             "versionDate": "2023-12-22",
             "size": 68065522,
