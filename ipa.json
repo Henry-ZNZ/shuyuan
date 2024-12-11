@@ -27,7 +27,7 @@
         },
         {
             "name": "微信多开3",
-            "bundleIdentifier": "com.tencent.xin_2",
+            "bundleIdentifier": "com.tencent.xin_3",
             "version": "8.0.44",
             "versionDate": "2023-11-30",
             "size": 68062212,
@@ -38,7 +38,7 @@
         },
         {
             "name": "微信多开4",
-            "bundleIdentifier": "com.tencent.xin_3",
+            "bundleIdentifier": "com.tencent.xin_4",
             "version": "8.0.44",
             "versionDate": "2023-11-30",
             "size": 68062222,
